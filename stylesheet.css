@@ -1,0 +1,34 @@
+.nav-link {
+  text-decoration: underline;
+}
+
+h1 {
+  justify-content: center;
+  display: flex;
+  margin-top: 100px;
+}
+
+Main {
+  background-image: url();
+  background-repeat: repeat-y;
+  background-repeat: repeat-x;
+}
+
+hr {
+    width:55%;
+    margin-left: auto;
+    margin-right: auto;
+    border:2px solid black;
+}
+
+.card-text {
+    margin-left: 5px;
+}
+
+footer{
+  height: 20px;
+}
+
+.fixed-top {
+  background-color: rgb(70, 236, 236);
+}
